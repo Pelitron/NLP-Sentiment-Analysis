@@ -1,0 +1,13 @@
+pandas
+nltk
+scikit-learn
+torch
+optuna
+imblearn
+wordcloud
+gensim
+matplotlib
+seaborn
+gzip
+json
+ipython
