@@ -44,3 +44,6 @@ El notebook incluye un análisis exploratorio de datos, la implementación de do
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, por favor crea un issue en este repositorio.
+
+**Author: Fernando Beneytez.**
+
